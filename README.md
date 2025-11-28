@@ -55,7 +55,7 @@ The test suite includes **4 comprehensive sheets**:
 
 ### Artifacts Location
 - `ManualTestingArtifacts/test-suite.xlsx` - Complete 4-sheet test suite
-- `ManualTestingArtifacts/empty-cart-bug-report.pdf` - Detailed bug documentation
+- `ManualTestingArtifacts/bug_report.pdf` - Detailed bug documentation
 
 ## 🤖 Test Automation (Part 2) - COMPLETED
 
