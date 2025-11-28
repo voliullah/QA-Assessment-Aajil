@@ -125,7 +125,7 @@ npx playwright install
 npx playwright test
 
 # Run specific test file
-npx playwright test tests/purchase-flow.spec.ts
+npx playwright test tests/purchaseFlight.spec.ts
 
 # Run with headed browser (visible)
 npx playwright test --headed
