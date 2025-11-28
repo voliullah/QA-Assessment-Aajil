@@ -19,7 +19,7 @@ QA-Assessment-Aajil/
 ├── .github/workflows/
 │   └── run-tests-on-deployment.yml    # CI/CD pipeline
 ├── ManualTestingArtifacts/
-│   ├── test-suite.xlsx               # Complete test suite (4 sheets)
+│   ├── test-suite.xlsx               # Complete test suite along  with bugs report (4 sheets)
 │   └── bug_report.pdf     # Detailed bug report
 ├── pages/                            # Page Object Model classes
 ├── tests/                            # Playwright test specifications
